@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastAppUtil</string>
+    <string name="skip">下一页</string>
+    <string name="next">跳过</string>
+</resources>
